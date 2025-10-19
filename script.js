@@ -19,6 +19,7 @@ const templateFolders = [
   "Divyansh-Raj-Template",
   "Foolish Developer",
   "HimanshuDubey",
+  "Igneel-98",
   "Ivan Grozdic",
   "Jayanta Ghosh",
   "Modern Animated Template",
@@ -59,6 +60,7 @@ const templateFolders = [
     "Himanshu",
     "Janavi-Pandole",
     "Modern Animated Template",
+    "Modern-Glassmorphic-Login",
     "Nitin",
     "SaurabhMishra(edtech+ecommerce)",
   "shivaram",
@@ -68,8 +70,8 @@ const templateFolders = [
     "Template 1",
   "Template 2",
   "OnkarJondhale",
-  "OnkarJondhale",
   "Kanishka",
+    "Ishika Singh Rajput",
 ];
 
 // A list of only the templates that were working.
@@ -92,6 +94,7 @@ const workingTemplates = [
   "Dhruva Bhat",
   "Divyansh-Raj-Template",
   "Foolish Developer",
+  "Igneel-98",
   "Ivan Grozdic",
   "Modern Animated Template",
   "Pranilash",
@@ -116,7 +119,7 @@ const workingTemplates = [
     "Avinash",
     "Dev-Portal-Shikha",
   "Split-Screen-Dark-Shikha",
-  "OnkarJondhale"
+  "OnkarJondhale",
   "Kanishka",
 ];
 
